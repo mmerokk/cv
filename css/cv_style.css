@@ -1,0 +1,57 @@
+h1
+{
+  text-align: center;
+}
+.title img
+{
+width: 100px;
+height: 180px;
+border-radius: 50px;
+padding: 20px;
+}
+.title #address
+{
+font-weight: bold;
+}
+.qualities h2
+{
+  text-align: center;
+}
+.qual h2
+{
+    text-align: center;
+}
+.qual .deg_list
+{
+  line-height: 2.0;
+  font-size: 15px;
+  list-style-position: inside;
+  text-indent: 20px;
+}
+.skills h2
+{
+  text-align: center;
+}
+.skills .skill_list
+{
+  line-height: 2.0;
+  font-weight: bold;
+}
+.hobbies h2
+{
+  text-align: center;
+}
+.hobbies .hobby_list
+{
+  line-height: 2.0;
+
+}
+.person_details h2
+{
+  text-align: center;
+}
+.person_details
+{
+line-height: 2.0;
+
+}
